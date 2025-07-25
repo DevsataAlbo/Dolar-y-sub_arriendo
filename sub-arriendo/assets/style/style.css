@@ -1,0 +1,27 @@
+body {
+    background: #3b3a3a;
+}
+
+.header {
+    text-align: center;
+    color: #ffffff;
+}
+
+main {
+    min-height: 98vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #331154, #892EE5);
+    color: #ffffff;
+    margin: 5px;
+    border-radius: 20px ;
+}
+
+main a {
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+}
+
